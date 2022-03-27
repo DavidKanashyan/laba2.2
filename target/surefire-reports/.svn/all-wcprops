@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports
+END
+testPack.ArrayMakerTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports/testPack.ArrayMakerTest.txt
+END
+testPack.SorterTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports/testPack.SorterTest.txt
+END
+testPack.GeneratorTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports/testPack.GeneratorTest.txt
+END
+TEST-testPack.GeneratorTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports/TEST-testPack.GeneratorTest.xml
+END
+TEST-testPack.ArrayMakerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports/TEST-testPack.ArrayMakerTest.xml
+END
+TEST-testPack.SorterTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project5/!svn/ver/90/trunk/team5/target/surefire-reports/TEST-testPack.SorterTest.xml
+END
