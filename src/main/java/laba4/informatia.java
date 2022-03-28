@@ -10,10 +10,10 @@ public class informatia implements ActionListener{
 	
 public void actionPerformed(ActionEvent arg0) {
 JOptionPane.showMessageDialog(null,
-"�������� ����� ����������" +
-"\n������� ������� ���������" +
-"\n����� ����� ��������" +
-"\n������� ������� ����������" +
+"Kanashyan David Alekseevich 28.03.2022" +
+"" +
+"" + 
+"\n������� ������� ����������" + 
 "\n������ �� �����:" +
 "\n" + TextReader.dannie,
 "����������",
