@@ -181,7 +181,7 @@ main_GUI.setVisible(true);
 main_GUI.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // закрытие окна JFrame и процесса Java
 }
 
-public static void main(String[] args) { // интересные заметки: http://www.mstu.edu.ru/study/materials/java/
+public static void main(String[] args) {
 subversion student= new subversion();
 
 }
