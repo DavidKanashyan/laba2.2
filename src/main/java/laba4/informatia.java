@@ -12,7 +12,7 @@ public void actionPerformed(ActionEvent arg0) {
 JOptionPane.showMessageDialog(null,
 "Канашьян Давид Алексеевич 08.04.2022" +
 "\nБулатов Марсель Расулевич 08.04.2022" +
-"\nЯрова Лидия Наилевна " + 
+"\nЯрова Лидия Наилевна 08.04.2022" + 
 "\nЛазарев Валерий Викторович" + 
 "\nДанные из файла:" +
 "\n" + TextReader.dannie,
