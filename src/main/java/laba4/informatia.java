@@ -11,12 +11,12 @@ public class informatia implements ActionListener{
 public void actionPerformed(ActionEvent arg0) {
 JOptionPane.showMessageDialog(null,
 "Канашьян Давид Алексеевич 08.04.2022" +
-"Bualtov Marsel Rasulevich 28.03.2022" +
-"Yarova Lidia 28.03.2022" + 
-"\nпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ" + 
-"\nпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ:" +
+"\nБулатов Марсель Расулевич 08.04.2022" +
+"\nЯрова Лидия Наилевна " + 
+"\nЛазарев Валерий Викторович" + 
+"\nДанные из файла:" +
 "\n" + TextReader.dannie,
-"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
+"Информация",
 JOptionPane.INFORMATION_MESSAGE);//
 }
 }
